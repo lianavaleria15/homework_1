@@ -1,29 +1,30 @@
+/*main body*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/*main body background color*/
 body {
     background-color: #d9dcd6;
 }
-/*This sets navigation bar colors & font style*/
+/*header styling information*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-/* deleted header class and declared just h1*/
+/*first header styling information*/
 .h1 {
     display: inline-block;
     font-size: 48px;
 }
-/* This adds color properties for span class inside heading 1; deleted header and h1 attributes*/
+/*style inline container inside first header*/
 .seo {
     color: #d9dcd6;
 }
-/* changed div attribute to nav attribute to correspond with changes made in html*/
+/*styling attributes navigation bar*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,25 +32,25 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-/* modified div attribute to nav*/
+/*styling attribute list of navigation tabs*/
 .header nav ul {
     list-style-type: none;
 }
-/*modiefied div attribute to nav*/
+/*styling attributes navigation tabs*/
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/*text color hyperlinks in navigation bar*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/*font-size for all paragraphs*/
 p {
     font-size: 16px;
 }
-
+/*background image styling*/ 
 .hero {
     height: 800px;
     width: 100%;
@@ -58,23 +59,23 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/*positioning property for background image*/
 .float-left {
     float: left;
     margin-right: 25px; 
 }
-
+/*positioning property for background image*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/*main section styling properties*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-/* renamed section child inside section "content" and brought all 3 together*/
+/* styling search engine optimization, online reputation and social media marketing sections*/
 .offers {
     margin-bottom: 20px;
     padding: 50px;
@@ -83,16 +84,16 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-/* renamed class according to html, and brought all 3 together*/
+/* format size images in "benefits" class*/
 .offers img {
     max-height: 200px;
 }
-/*changed the name of class to offers and deleted repetition*/
-.offers h2 {
+/*second header style inside "offers" class*/
+.offers  h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*styling "benefits" section for lead generation, brand awareness and cost management sections*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -103,30 +104,30 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/*renamed class after renaming class in html and brought all 3 together*/
+/*border style and background color for sidebar*/
 .lead-brand-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/*renamed class to "lead-brand-cost" and deleted repetitive code*/
+/*third header style inside sidebar*/
 .lead-brand-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-/*renamed class to "lead-brand-cost" and deleted repetitive code*/
+/*icons style inside sidebar*/
 .lead-brand-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* style footer section*/
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/*style second heading inside footer section*/
 .footer h2 {
     font-size: 20px;
 }
