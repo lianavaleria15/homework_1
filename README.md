@@ -1,5 +1,4 @@
-# Title
-Code refactor for Horiseaon - Marketing Agency 
+# Code refactor for Horiseaon - Marketing Agency 
 
 ## Description
 In this project I refactored an existing code of a marketing agency's website. My responsibility was to increase the webpage accessibility and to improve the codebase. For this I: 
@@ -10,3 +9,5 @@ In this project I refactored an existing code of a marketing agency's website. M
 ## Screenshots
 
 ## Link to deployed application
+https://lianavaleria15.github.io/homework_1/
+gti add
