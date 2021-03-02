@@ -8,7 +8,7 @@ In this project I refactored an existing code of a marketing agency's website. M
 
 ## Screenshots
 ![Screenshot 1](/assets/images/horiseon_1.png)
-![Screenshot 2](/assets/images/horisean_2.png)
+![Screenshot 2](/assets/images/horiseon_2.png)
 ![Screenshot 3](/assets/images/horiseon_3.png)
 ## Link to deployed application
 https://lianavaleria15.github.io/homework_1/
