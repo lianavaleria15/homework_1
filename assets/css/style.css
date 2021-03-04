@@ -105,17 +105,23 @@ p {
     background-color: #2589bd;
 }
 /*border style and background color for sidebar*/
-.lead-brand-cost {
+.benefit-lead, 
+.benefit-brand, 
+.benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 /*third header style inside sidebar*/
-.lead-brand-cost h3 {
+.benefit-lead, 
+.benefit-brand, 
+.benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 /*icons style inside sidebar*/
-.lead-brand-cost img {
+.benefit-lead,
+.benefit-brand,
+.benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
