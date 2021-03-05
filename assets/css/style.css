@@ -3,7 +3,7 @@
   padding: 0;
   margin: 0;
 }
-
+/*inside body section I replaced non-semantic elements to semantic ones, following the changes in the html file*/
 body {
   background-color: #d9dcd6;
 }
@@ -24,7 +24,7 @@ body {
 .header h1 .seo {
   color: #d9dcd6;
 }
-/*here I replaced selector's type to semantic ones, following the changes in the html file*/
+
 .header nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -126,7 +126,7 @@ p {
   margin: 10px auto;
   max-width: 150px;
 }
-/* renamed class selector to a semantic one according to changes in the html file*/
+/* here I renamed class selector to a semantic one according to changes in the html file*/
 .footer {
   padding: 30px;
   clear: both;
