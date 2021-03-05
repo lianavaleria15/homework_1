@@ -2,7 +2,7 @@
 
 ## Description
 
-In this project I refactored the code I was given for a marketing agency's landing page. For this, I improved the codebase to increase its accessibility, by committing a series of changes in both HTML and CSS file.
+In this project I refactored the code of a marketing agency's landing page. For this, I improved the codebase to increase its accessibility, by committing a series of changes in both HTML and CSS file.
 
 ## Changes I did
 
