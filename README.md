@@ -2,19 +2,19 @@
 
 ## Description
 
-In this project I refactored an existing code for a marketing agency's website. For this, I improved the codebase to increase its accessibility, by
+In this project I refactored the code I was given for a marketing agency's landing page. For this, I improved the codebase to increase its accessibility, by committing a series of changes in both HTML and CSS file.
 
-## Things I did
+## Changes I did
 
-### In the .html file
+### In the HTML file
 
 - I replaced non-semantic elements with their semantic version in both html and css files. For example, in the navigation bar, I replaced elements like 'div' with 'nav'. I also declared a 'main' section, inside which I replaced some of the 'div' with 'section' selectors.
 - I deleted extra closing tags that were added after self-closing tags in the main section.
 
 - I corrected links that weren't functioning correctly. To do this, I added property names and values to declaration in the header.
-- I added header and footer elements.
+- I added alt attributes to image selectors in order to increase the accessibility of the landing webpage.
 
-### In the .css file
+### In the CSS file
 
 - In the css file, I updated the class declarations to fit the changes I made in the html file, by renaming the class attributes.
 - To signpost the changes made, I added comments before the declaration blocks.
