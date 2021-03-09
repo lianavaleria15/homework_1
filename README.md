@@ -28,4 +28,4 @@ In this project I refactored the code of a marketing agency's landing page. For 
 
 ## Link to deployed application
 
-Click [here](https://lianavaleria15.github.io/homework_1/) to visit the deployed application on GitHub pages.
+Click [here](https://lianavaleria15.github.io/code-refactor-horiseon/) to visit the deployed application on GitHub pages.
